@@ -19,7 +19,7 @@ To use this project,
 
 
 # Please note: 
-	that when you run the script for the first time, after asking for the date to get music data from, the script will automatically open a webpage and asks you to enter the url. Copy the 	full url of the page and paste it in required position in the cli. This will create a .cache file and will not request for it when you run the script subsequently.
+that when you run the script for the first time, after asking for the date to get music data from, the script will automatically open a webpage and asks you to enter the url. Copy the 	full url of the page and paste it in required position in the cli. This will create a .cache file and will not request for it when you run the script subsequently.
 
 
 When all is done successfully, check your spotify account, you should see new playlist for your enjoyment!!
